@@ -1,5 +1,13 @@
-# Ahmad Faiq Zidane | 🦾 机器人学与人工智能工程师
-<p align="left">
+# 
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_Universitas_Pendidikan_Indonesia.png" alt="Logo UPI" width="100" />
+</p>
+
+<h1 align="center">Ahmad Faiq Zidane</h1>
+<h3 align="center">🦾 机器人学与人工智能工程师 | Mechatronics & AI Student</h3>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faiq-danZ&label=Profile%20Views&color=orange&style=flat-square" alt="Faiq-danZ" />
 </p>
 
@@ -13,6 +21,7 @@ I am a **Mechatronics & Artificial Intelligence** student at **Universitas Pendi
 * **专长 (Specialty):** Robotics Enthusiast & Embedded Systems.
 * **愿景 (Vision):** Humanizing technology through AI and Robotics.
 * **座右铭 (Motto):** *Fortis Fortuna Adiuvat* — Fortune favors the bold.
+* **学术 (Academic):** Mechatronics & AI (MKB 2A) | NIM: 2502542.
 
 ---
 
@@ -35,7 +44,7 @@ I am a **Mechatronics & Artificial Intelligence** student at **Universitas Pendi
 ---
 
 ### 📫 Contact Me | 联系方式
-<p align="left">
+<p align="center">
   <a href="mailto:faiqzidan@upi.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/AhmadFaiqZidane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/faiq_danz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
