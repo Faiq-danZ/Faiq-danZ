@@ -4,13 +4,13 @@
   <h2>العِلْمُ بِلَا عَمَلٍ كَالشَّجَرِ بِلَا ثَمَرٍ</h2>
   <p><i>"Al-'ilmu bila 'amalin kasy-syajari bila tsamarin"</i></p>
   <p><b>"Ilmu tanpa amal (praktik) bagaikan pohon yang tak berbuah."</b></p>
-  <p><i>Knowledge without practical application is like a tree without fruit. As a Mechatronics & AI Engineer, I believe that algorithms and codes must manifest into tangible actions in the real world.</i></p>
+  <p><i>Knowledge without practical application is like a tree without fruit.</i></p>
 </div>
 
 ---
 
 <h1 align="center">
-  Hi there, I'm Ahmad Faiq Zidane! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving hand">
+  Hi there, I'm Ahmad Faiq Zidane! 👋
 </h1>
 
 <p align="center">
@@ -36,11 +36,11 @@
 
 ### 🌐 About Me | Tentang Saya | 关于我
 
-**🇮🇩 ID:** Halo! Saya adalah mahasiswa **Mekatronika & Kecerdasan Buatan** di **Universitas Pendidikan Indonesia (UPI) Purwakarta**. Fokus utama saya adalah menjembatani perangkat keras dengan perangkat lunak cerdas, khususnya di bidang Robotika, Otomasi Cerdas (*Smart Automation*), dan Sistem Tertanam (*Embedded Systems*). Saya sangat antusias meracik kode AI hingga menjadi pergerakan mekanis di dunia nyata.
+**🇮🇩 ID:** Halo! Saya adalah mahasiswa **Mekatronika & Kecerdasan Buatan** di **Universitas Pendidikan Indonesia (UPI) Purwakarta**. Fokus utama saya adalah menjembatani perangkat keras dengan perangkat lunak cerdas, khususnya di bidang Robotika, Otomasi Cerdas (*Smart Automation*), dan Sistem Tertanam (*Embedded Systems*).
 
-**🇬🇧 EN:** Hello! I am a **Mechatronics & Artificial Intelligence** student at **Universitas Pendidikan Indonesia (UPI) Purwakarta**. My core focus is bridging hardware with intelligent software, specifically in Robotics, Smart Automation, and Embedded Systems. I am highly enthusiastic about translating abstract AI algorithms into precise mechanical movements.
+**🇬🇧 EN:** Hello! I am a **Mechatronics & Artificial Intelligence** student at **Universitas Pendidikan Indonesia (UPI) Purwakarta**. My core focus is bridging hardware with intelligent software, specifically in Robotics, Smart Automation, and Embedded Systems.
 
-**🇨🇳 ZH:** 你好！我是**印度尼西亚教育大学 (UPI)** 机电一体化与人工智能专业的学生。我的核心重点是将硬件与智能软件连接起来，特别是在机器人技术、智能自动化和嵌入式系统领域。我非常热衷于将人工智能算法转化为现实世界的机械运动。
+**🇨🇳 ZH:** 你好！我是**印度尼西亚教育大学 (UPI)** 机电一体化与人工智能专业的学生。我的核心重点是将硬件与智能软件连接起来，特别是在机器人技术、智能自动化和嵌入式系统领域。
 
 <br>
 
@@ -66,7 +66,7 @@
 ### 🛠 Technical Arsenal | Keahlian Teknis | 技术专长
 
 <p align="center">
-  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> <b>Programming Languages</b></i><br>
+  <b>Programming Languages</b><br>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="25" /> <b>AI & Robotics</b></i><br>
+  <b>AI & Robotics</b><br>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Americas.png" alt="Web" width="25" /> <b>Web & Integrations</b></i><br>
+  <b>Web & Integrations</b><br>
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
